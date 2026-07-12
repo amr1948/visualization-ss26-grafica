@@ -1,0 +1,27 @@
+{
+    "submission_id": 2,
+    "submission_type": "intermediate",
+    "team_name": "Gráfica",
+    "students": [
+        {
+            "first_name": "Amr",
+            "last_name": "Abdullah",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Mihajlo",
+            "last_name": "Živić",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Marlon",
+            "last_name": "Orta",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Mohammad",
+            "last_name": "Shadik Ansari",
+            "workload": 0.25
+        }
+    ]
+}

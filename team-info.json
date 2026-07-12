@@ -1,0 +1,33 @@
+{
+    "team_name": "Grafica",
+    "students": [
+        {
+            "student_id": "k12340330",
+            "first_name": "Amr",
+            "last_name": "Abdullah",
+            "email": "amr.pun1948@gmail.com",
+            "github_user": "amr1948"
+        },
+        {
+            "student_id": "k12552526",
+            "first_name": "Mihajlo",
+            "last_name": "Živić",
+            "email": "yunaa8092@mail.com",
+            "github_user": "yunetina"
+        },
+        {
+            "student_id": "k12547868",
+            "first_name": "Marlon",
+            "last_name": "Orta",
+            "email": "marlondavid1998@outlook.com ",
+            "github_user": "marlondavid98"
+        },
+        {
+            "student_id": "k12340306",
+            "first_name": "Mohammad Shadik",
+            "last_name": "Ansari",
+            "email": "shadik44@yahoo.com",
+            "github_user": "ms-codex"
+        }
+    ]
+}
